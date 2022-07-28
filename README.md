@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/e76ec8c8220f406db1062a7385cba9ef.png?r=fga"
+      src="https://github.com/DiyeMark/diyemark/blob/main/devcard.svg"
       alt="Denamo Markos's Dev Card"
     />
   </a>
