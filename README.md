@@ -1,6 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Denamo Markos
 =====================================================================================================================================
 
+<div align="left">
+  <a href="https://app.daily.dev/DiyeMark" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/e76ec8c8220f406db1062a7385cba9ef.png?r=fga"
+      alt="Denamo Markos's Dev Card"
+    />
+  </a>
+</div>
+
 Software Engineer | Junior Machine Learning Engineer
 ----------------------------------------------------
 
@@ -62,7 +73,7 @@ src="https://img.shields.io/github/followers/diyemark?logo=github&style=for-the-
 
 <a href="https://github.com/diyemark" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyemark&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p align="center">
+<p align="left">
 <a href="http://www.github.com/diyemark">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=diyemark&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="diyemark's GitHub stats" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=diyemark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
