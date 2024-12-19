@@ -15,23 +15,28 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Machine Learning Engineer
 ----------------------------------------------------
 
-I'm a Machine Learning Engineer. I am very good at python and I also have some experience in R. My skills include Computer Science Fundamentals and Programming, Machine Learning Algorithms, Data Modeling and Evaluation, Neural Networks, Computer Vision, and Natural Language Processing.
+A passionate Machine Learning Engineer with expertise in developing and deploying AI solutions. I specialize in building scalable ML systems, with a strong focus on Deep Learning, Computer Vision, and Natural Language Processing. My technical foundation in Python and software engineering principles allows me to bridge the gap between research and production-ready AI applications.
+
+Core competencies:
+* 🤖 Machine Learning & Deep Learning
+* 🔍 Computer Vision & NLP
+* 🚀 MLOps & Model Deployment
+* 💻 Full-Stack Development
+
+----------------------------------------------------
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [diye.dev](http://diye.dev)
+* 🖥️  See my portfolio at [diye.dev](https://diye.dev)
 * ✉️  You can contact me at [diyye101@gmail.com](mailto:diyye101@gmail.com)
 * 🚀  I'm currently focusing on advanced Deep Learning architectures and MLOps practices
 * 📚  Learning: Transformers architecture and Large Language Models
+* 👯  Open to collaborating on AI/ML projects and research
 
 <a href="https://www.twitter.com/diyemark" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/diyemark?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/diyemark" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/diyemark?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Featured Projects
-* 🤖 [Project Name] - Brief description of an ML project
-* 🌐 [Project Name] - Brief description of a web/software project
-* 📱 [Project Name] - Brief description of another significant project
 
 ### Skills
 
@@ -72,12 +77,13 @@ src="https://img.shields.io/github/followers/diyemark?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/diyemark" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyemark&langs_count=4&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=diyemark&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-<p align="left">
-<a href="http://www.github.com/diyemark">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=diyemark&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="diyemark's GitHub stats" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=diyemark&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=diyemark&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=diyemark&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <a href="http://www.github.com/diyemark"><img src="https://github-readme-activity-graph.vercel.app/graph?username=diyemark&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
