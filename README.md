@@ -2,11 +2,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <div align="left">
-  <a href="https://daily.dev/diyemark"><img src="https://api.daily.dev/devcards/v2/b5pNoO3jz0TYtF6Afism3.png?type=default&r=zx2" width="256" align="right" alt="Denamo Markos's Dev Card"/></a>
+  <a href="https://app.daily.dev/DiyeMark" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/DiyeMark/diyemark/blob/main/devcard.svg"
+      alt="Denamo Markos's Dev Card"
+    />
+  </a>
 </div>
 
 Software Engineer | Machine Learning Engineer
-----------------------------------------------
+----------------------------------------------------
 
 A passionate Machine Learning Engineer with expertise in developing and deploying AI solutions. I specialize in building scalable ML systems, with a strong focus on Deep Learning, Computer Vision, and Natural Language Processing. My technical foundation in Python and software engineering principles allows me to bridge the gap between research and production-ready AI applications.
 
