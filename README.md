@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 Software Engineer | Machine Learning Engineer
-----------------------------------------------------
+----------------------------------------------
 
 A passionate Machine Learning Engineer with expertise in developing and deploying AI solutions. I specialize in building scalable ML systems, with a strong focus on Deep Learning, Computer Vision, and Natural Language Processing. My technical foundation in Python and software engineering principles allows me to bridge the gap between research and production-ready AI applications.
 
