@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 <div align="left">
-  <a href="https://daily.dev/diyemark"><img src="https://api.daily.dev/devcards/v2/b5pNoO3jz0TYtF6Afism3.png?type=default&r=zx2" width="356" alt="Denamo Markos's Dev Card"/></a>
+  <a href="https://daily.dev/diyemark"><img src="https://api.daily.dev/devcards/v2/b5pNoO3jz0TYtF6Afism3.png?type=default&r=zx2" width="256" align="right" alt="Denamo Markos's Dev Card"/></a>
 </div>
 
 Software Engineer | Machine Learning Engineer
